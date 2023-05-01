@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Slider from "react-slick";
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faUser as faUser, faPaste, faEnvelope, faCopy, faDriversLicense, faFaceMeh, faFolderOpen, faLemon, faHeart } from '@fortawesome/free-regular-svg-icons'
+import { faUser, faPaste, faEnvelope, faCopy, faDriversLicense, faFaceMeh, faFolderOpen, faLemon, faHeart } from '@fortawesome/free-regular-svg-icons'
 
 
 
